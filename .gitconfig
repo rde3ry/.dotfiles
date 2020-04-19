@@ -1,0 +1,14 @@
+[user]
+	name = Ryan Deery
+	email = rde3ry@gmail.com
+[core]
+	autocrlf = input
+[push]
+	default = matching
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	a = add
+	st = status
