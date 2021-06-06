@@ -6,9 +6,11 @@ This repo contains dotfiles which are used on Unix-like systems to store user-sp
 
 ### Features
 * [Bash Profile](.bash_profile)
-	* Export path vars
+	* Configure PATH variable
 	* Set bash aliases
-	* PS1 env var, CLI colors and Git prompt
-	* Bash and Git completion scripts
+	* Enable CLI colors
+	* Init PS1 env var with current dir & Git prompt
+	* Completion scripts:
+		* Bash, Git, Grails & NVM
 * [inputrc file](.inputrc)
 * [vimrc file](.vimrc)
