@@ -11,6 +11,7 @@ This repo contains dotfiles which are used on Unix-like systems to store user-sp
 	* PS1 env var with colors and Git prompt
 	* Bash and Git completion scripts
 * [inputrc file](.inputrc)
+* [vimrc file](.vimrc)
 
 ### Dotfiles
 .bash_profile:								child script
@@ -23,3 +24,6 @@ This repo contains dotfiles which are used on Unix-like systems to store user-sp
 .init-ps1:
 	- enable CLI colors
 	- set PS1 variable with current dir and git prompt
+
+.vimrc
+	- docs: https://vim.fandom.com/wiki/Open_vimrc_file
