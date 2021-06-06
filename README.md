@@ -14,11 +14,11 @@ This repo contains dotfiles which are used on Unix-like systems to store user-sp
 * [vimrc file](.vimrc)
 
 ### Dotfiles
-.bash_profile:								child script
-	- configure PATH var 						x
-	- set bash aliases							x
+.bash_profile:
+	- configure PATH var
+	- set bash aliases
 	- enable colours and init ps1
-	- load completion scripts (4)
+	- load completion scripts
 	- configure SDK man
 
 .init-ps1:
